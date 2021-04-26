@@ -9,6 +9,11 @@ import cartItems from "./cart-items";
 function App() {
   // cart setup
   // THis is the change
+  // THis is the change
+  // THis is the change
+  // THis is the change
+  // THis is the change
+  // THis is the change
 
   return (
     <main>
